@@ -1,6 +1,9 @@
-function Home(){
+function Home() {
 
-    return <h1>TESTE 4</h1>
+    return <div>
+       <h1>Oi Natalia</h1> 
+       <p>Só quero te lembrar q eu te amo</p> 
+    </div>
 }
 
 export default Home;
